@@ -16,6 +16,11 @@ pip install -r requirements.txt
 ```
 ### Usage
 - Create a ``.env`` file.
+```
+python3 -m venv venv
+. venv/bin/activate
+```
+
 - Declare following environment variables in the .env file.
 ```
 > SECRET_KEY = 'secret key'
