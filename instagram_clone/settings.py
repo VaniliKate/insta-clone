@@ -7,7 +7,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = os.environ.get('SECRET_KEY')
 
 DEBUG = os.environ.get('DEBUG')
-ALLOWED_HOSTS = ['0.0.0.0', 'localhost', '127.0.0.1', 
+ALLOWED_HOSTS = ['127.0.0.1', 
 'https://vanili-instagram.herokuapp.com/']
 
 
