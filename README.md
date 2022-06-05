@@ -44,7 +44,12 @@ python manage.py createsuperuser
 ```
 python manage.py runserver
 ```
-- Open the app at `localhost:8000` or `http://127.0.0.1:8000/`
+- This opens the app at `localhost:8000` or `http://127.0.0.1:8000/`
 
-## Contact Me 
-### 
+## Authors
+
+* **Kate Vanili** 
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
