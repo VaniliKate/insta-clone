@@ -1,4 +1,4 @@
-## Django Instagram Clone
+## Instagram Clone
 Instagram clone using python django with a lot of Instagram features.
 
 #### Give a star if you like it.
