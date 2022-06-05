@@ -28,7 +28,7 @@ python3 -m venv venv
 > EMAIL_USERNAME = 'your email address'
 > EMAIL_PASSWORD = 'your password' 
 ```
-- Now make the migrations.
+- Make migrations.
 ```
 python manage.py migrate
 ```
@@ -48,7 +48,7 @@ python manage.py runserver
 
 ## Authors
 
-* **Kate Vanili** 
+* **Kate Vanili(2022)** 
 
 ## License
 
