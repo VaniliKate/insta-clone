@@ -3,8 +3,8 @@ Instagram clone using python django with a lot of Instagram features.
 
 ## Features
 - User authentication(Sign up and sign in).
-- Password Reset using email.
-- Posting Images.
+- Posting images.
+- Follow others and see thier photos.
 - Like and comment on a post.
 
 ### Installation
