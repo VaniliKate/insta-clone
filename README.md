@@ -71,5 +71,5 @@ python manage.py runserver
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-[Live Site] shorturl.at/szPW8
+[Live Site] ssshorturl.at/szPW8
 Incase of browser warning just proceed and click visit unsafe.
