@@ -38,7 +38,7 @@ python manage.py makemigrations
 ```
 - Create a super user.
 ```
-python manage.py createsuper
+python manage.py createsuperuser
 ```
 - Run the app.
 ```
