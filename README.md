@@ -15,7 +15,7 @@ Instagram clone using python django with a lot of Instagram features.
 pip install -r requirements.txt
 ```
 ### Usage
-- Create a ``.env`` file.
+- Create a virtual environment.
 ```
 python3 -m venv venv
 . venv/bin/activate
