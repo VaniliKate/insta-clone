@@ -47,9 +47,4 @@ python manage.py runserver
 - Open the app at `localhost:8000` or `http://127.0.0.1:8000/`
 
 ## Contact Me 
-### Murari Sabavath
-
-[Github](https://github.com/MurariSabavath) <br> 
-[Instagram](https://www.instagram.com/murari_sabavath/) <br>
-[Gmail](mailto:murarisabavath3676@gmail.com) <br>
-[Twitter](https://twitter.com/MurariSabavath_) <br>
+### 
