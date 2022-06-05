@@ -53,3 +53,6 @@ python manage.py runserver
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+Live Application shorturl.at/szPW8
+Incase of browser warning just proceed and click visit unsafe.
