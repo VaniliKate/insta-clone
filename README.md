@@ -9,7 +9,7 @@ Instagram clone using python django with a lot of Instagram features.
 
 ### Installation
 - Make sure Python is installed.
-- Clone the repository and change your directory to Insta_clone.
+- Clone https://github.com/VaniliKate/insta-clone.git and cd into insta-clone.
 - Install requirements using following command.
 ```
 pip install -r requirements.txt
