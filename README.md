@@ -71,5 +71,5 @@ python manage.py runserver
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-[Live Site] (https://rb.gy/c82qui)
+[Live Site] (https://vanili-instagram.herokuapp.com/)
 Incase of browser warning just ignore and proceed and click visit unsafe.
