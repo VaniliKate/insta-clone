@@ -72,4 +72,4 @@ python manage.py runserver
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 [Live Site] (https://rb.gy/c82qui)
-Incase of browser warning just proceed and click visit unsafe.
+Incase of browser warning just ignore and proceed and click visit unsafe.
